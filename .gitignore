@@ -1,3 +1,6 @@
 
 .virtual_documents/
 .ipynb_checkpoints/
+gistic2/
+gencode.v45.annotation.gtf.gz
+conda_env/
