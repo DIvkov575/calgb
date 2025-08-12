@@ -4,3 +4,10 @@
 gistic2/
 gencode.v45.annotation.gtf.gz
 conda_env/
+
+vcf2maf/
+vcf2maf_cache/
+venv/
+ensembl-vep/
+caches/
+data/GRCh38.primary_assembly.genome.fa.gz
